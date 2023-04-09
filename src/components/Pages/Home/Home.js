@@ -1,0 +1,16 @@
+import React from "react";
+
+function Home() {
+    return(
+        <React.Fragment>
+            <div className="container mt-4">
+                <h3>Welcome</h3>
+                <p>Lorem ddcdcswc dwd dew eddfvf efesfvsvsfvskmk sjns sj ksj fkjefe rjferfn ekrfnke ken n kjnvoev e 
+
+                </p>
+            </div>
+        </React.Fragment>
+    )
+}
+
+export default Home;
